@@ -1,11 +1,63 @@
 ---
-title: "geospatial0523"
+title: "UCSC Geospatial Workshop May 2023"
 ---
 
-This is a Quarto website.
+Welcome to the UCSC Geospatial Workshop! This two-day workshop will cover the basics of geospatial analysis, with an emphasis on using R and ecology.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Structure
 
-```{r}
-1 + 1
-```
+-   Two 1.5hrs sessions
+
+-   Sessions will be from **11 am-12:30 pm in the CBB first-floor teaching lab (room 115)**
+
+## Day One, Friday, May 19th
+
+*Introduction to what the data are*
+
+-   Topics include:
+
+    -   Types of geospatial data (led by Max)
+
+    -   Creating maps (led by Mallarie)
+
+    -   Where to find data (led by Philippine)
+
+-   For each topic:
+
+    -   10 min of lecture introducing the topic
+
+    -   15 min to work on the exercise
+
+    -   5 min break
+
+-   Exercises will build up in complexity
+
+    -   A perfect example
+
+    -   One of two missing pieces, with hints for what to Google
+
+    -   Many missing components
+
+    -   Fully independent, from scratch
+
+## Day Two, Friday, May 26th
+
+*Doing things with the data*
+
+-   Topics include:
+
+    -   Spatial analysis e.g., reshaping, regridding, data wrangling, spatial joins (led by Mallarie)
+
+    -   Telemetry data e.g., movement models, filtering speed, plotting (led by Philippine)
+
+-   For each topic:
+
+    -   10 min of lecture introducing the topic
+
+    -   15 min to work on the exercise
+
+    -   5 min break
+
+-   Exercises will include a review/deeper dive of Day 1 and the two topics of Day 2; attendees will choose two of these three to work on
+
+-   Resources/exercises will be available to all students in a shared folder so they can use them and go through them after the workshop

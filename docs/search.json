@@ -2,9 +2,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "geospatial0523",
+    "title": "UCSC Geospatial Workshop May 2023",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to the UCSC Geospatial Workshop! This two-day workshop will cover the basics of geospatial analysis, with an emphasis on using R and ecology."
+  },
+  {
+    "objectID": "index.html#structure",
+    "href": "index.html#structure",
+    "title": "UCSC Geospatial Workshop May 2023",
+    "section": "Structure",
+    "text": "Structure\n\nTwo 1.5hrs sessions\nSessions will be from 11 am-12:30 pm in the CBB first-floor teaching lab (room 115)"
+  },
+  {
+    "objectID": "index.html#day-one-friday-may-19th",
+    "href": "index.html#day-one-friday-may-19th",
+    "title": "UCSC Geospatial Workshop May 2023",
+    "section": "Day One, Friday, May 19th",
+    "text": "Day One, Friday, May 19th\nIntroduction to what the data are\n\nTopics include:\n\nTypes of geospatial data (led by Max)\nCreating maps (led by Mallarie)\nWhere to find data (led by Philippine)\n\nFor each topic:\n\n10 min of lecture introducing the topic\n15 min to work on the exercise\n5 min break\n\nExercises will build up in complexity\n\nA perfect example\nOne of two missing pieces, with hints for what to Google\nMany missing components\nFully independent, from scratch"
+  },
+  {
+    "objectID": "index.html#day-two-friday-may-26th",
+    "href": "index.html#day-two-friday-may-26th",
+    "title": "UCSC Geospatial Workshop May 2023",
+    "section": "Day Two, Friday, May 26th",
+    "text": "Day Two, Friday, May 26th\nDoing things with the data\n\nTopics include:\n\nSpatial analysis e.g., reshaping, regridding, data wrangling, spatial joins (led by Mallarie)\nTelemetry data e.g., movement models, filtering speed, plotting (led by Philippine)\n\nFor each topic:\n\n10 min of lecture introducing the topic\n15 min to work on the exercise\n5 min break\n\nExercises will include a review/deeper dive of Day 1 and the two topics of Day 2; attendees will choose two of these three to work on\nResources/exercises will be available to all students in a shared folder so they can use them and go through them after the workshop"
   },
   {
     "objectID": "about.html",
