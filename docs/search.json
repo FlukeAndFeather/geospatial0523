@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "recordings.html",
+    "href": "recordings.html",
+    "title": "Recordings",
+    "section": "",
+    "text": "Day One"
+  },
+  {
+    "objectID": "daytwo.html",
+    "href": "daytwo.html",
+    "title": "Day Two",
+    "section": "",
+    "text": "Where to find geospatial data (led by Philippine)\nUsing telemetry data (led by Philippine)\n\nTime permitting, we will also review material from Day One"
+  },
+  {
+    "objectID": "daytwo.html#downloads",
+    "href": "daytwo.html#downloads",
+    "title": "Day Two",
+    "section": "Downloads",
+    "text": "Downloads\n\nDrive"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "UCSC Geospatial Workshop May 2023",
@@ -18,20 +39,27 @@
     "href": "index.html#day-one-friday-may-19th",
     "title": "UCSC Geospatial Workshop May 2023",
     "section": "Day One, Friday, May 19th",
-    "text": "Day One, Friday, May 19th\nIntroduction to what the data are\n\nTopics include:\n\nTypes of geospatial data (led by Max)\nCreating maps (led by Mallarie)\nWhere to find data (led by Philippine)\n\nFor each topic:\n\n10 min of lecture introducing the topic\n15 min to work on the exercise\n5 min break\n\nExercises will build up in complexity\n\nA perfect example\nOne of two missing pieces, with hints for what to Google\nMany missing components\nFully independent, from scratch"
+    "text": "Day One, Friday, May 19th\nIntroduction to what the data are\n\nTopics include:\n\nTypes of geospatial data (led by Max)\nCreating maps (led by Mallarie)\nSpatial analysis (led by Mallarie)\n\nFor each topic:\n\n10 min of lecture introducing the topic\n15 min to work on the exercise\n5 min break\n\nExercises will build up in complexity\n\nA perfect example\nOne of two missing pieces, with hints for what to Google\nMany missing components\nFully independent, from scratch"
   },
   {
     "objectID": "index.html#day-two-friday-may-26th",
     "href": "index.html#day-two-friday-may-26th",
     "title": "UCSC Geospatial Workshop May 2023",
     "section": "Day Two, Friday, May 26th",
-    "text": "Day Two, Friday, May 26th\nDoing things with the data\n\nTopics include:\n\nSpatial analysis e.g., reshaping, regridding, data wrangling, spatial joins (led by Mallarie)\nTelemetry data e.g., movement models, filtering speed, plotting (led by Philippine)\n\nFor each topic:\n\n10 min of lecture introducing the topic\n15 min to work on the exercise\n5 min break\n\nExercises will include a review/deeper dive of Day 1 and the two topics of Day 2; attendees will choose two of these three to work on\nResources/exercises will be available to all students in a shared folder so they can use them and go through them after the workshop"
+    "text": "Day Two, Friday, May 26th\nDoing things with the data\n\nTopics include:\n\nWhere to find data (led by Philippine)\nTelemetry data (led by Philippine)\n\nFor each topic:\n\n10 min of lecture introducing the topic\n15 min to work on the exercise\n5 min break\n\nExercises will include a review/deeper dive of Day 1 and the two topics of Day 2; attendees will choose two of these three to work on\nResources/exercises will be available to all students in a shared folder so they can use them and go through them after the workshop"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "dayone.html",
+    "href": "dayone.html",
+    "title": "Day One",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Types of geospatial data (led by Max)\nCreating maps (led by Mallarie)\nSpatial analysis (led by Mallarie)"
+  },
+  {
+    "objectID": "dayone.html#downloads",
+    "href": "dayone.html#downloads",
+    "title": "Day One",
+    "section": "Downloads",
+    "text": "Downloads\n\nDrive"
   }
 ]

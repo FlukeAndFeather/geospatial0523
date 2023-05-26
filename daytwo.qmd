@@ -1,0 +1,15 @@
+---
+title: "Day Two"
+---
+
+## Lessons
+
+-   Where to find geospatial data (led by Philippine)
+
+-   Using telemetry data (led by Philippine)
+
+Time permitting, we will also review material from Day One
+
+## Downloads
+
+-   [Drive](https://drive.google.com/drive/folders/1I_a69wChaq4Su1yF2SStdR5JAvF0sUe_?usp=sharing)

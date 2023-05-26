@@ -20,7 +20,7 @@ Welcome to the UCSC Geospatial Workshop! This two-day workshop will cover the ba
 
     -   Creating maps (led by Mallarie)
 
-    -   Where to find data (led by Philippine)
+    -   Spatial analysis (led by Mallarie)
 
 -   For each topic:
 
@@ -46,9 +46,9 @@ Welcome to the UCSC Geospatial Workshop! This two-day workshop will cover the ba
 
 -   Topics include:
 
-    -   Spatial analysis e.g., reshaping, regridding, data wrangling, spatial joins (led by Mallarie)
+    -   Where to find data (led by Philippine)
 
-    -   Telemetry data e.g., movement models, filtering speed, plotting (led by Philippine)
+    -   Telemetry data (led by Philippine)
 
 -   For each topic:
 

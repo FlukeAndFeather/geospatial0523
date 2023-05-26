@@ -1,0 +1,15 @@
+---
+title: "Day One"
+---
+
+## Lessons
+
+-   Types of geospatial data (led by Max)
+
+-   Creating maps (led by Mallarie)
+
+-   Spatial analysis (led by Mallarie)
+
+## Downloads
+
+-   [Drive](https://drive.google.com/file/d/1OX9pXpxSHPb3SQE8w-pGN1I3EinKGHa-/view?usp=drive_web)
