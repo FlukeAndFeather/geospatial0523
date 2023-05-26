@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "recordings.html",
-    "href": "recordings.html",
-    "title": "Recordings",
-    "section": "",
-    "text": "Day One"
-  },
-  {
     "objectID": "daytwo.html",
     "href": "daytwo.html",
     "title": "Day Two",
@@ -61,5 +54,19 @@
     "title": "Day One",
     "section": "Downloads",
     "text": "Downloads\n\nDrive"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Day One\nDay Two (will link once available)"
+  },
+  {
+    "objectID": "resources.html#scripts-and-data",
+    "href": "resources.html#scripts-and-data",
+    "title": "Resources",
+    "section": "Scripts and data",
+    "text": "Scripts and data\nAvailable on Drive"
   }
 ]

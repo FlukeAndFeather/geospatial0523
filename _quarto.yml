@@ -12,7 +12,7 @@ website:
         text: Day One
       - href: daytwo.qmd
         text: Day Two
-      - href: recordings.qmd
+      - href: resources.qmd
 format:
   html:
     theme: cosmo
