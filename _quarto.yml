@@ -8,8 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: dayone.qmd
+        text: Day One
+      - href: daytwo.qmd
+        text: Day Two
+      - href: recordings.qmd
 format:
   html:
     theme: cosmo
